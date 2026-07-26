@@ -20,9 +20,16 @@ int main(){
             z = x + y;
             break;
         case '-':
+            if (y<=-1){
+                z = y - x;
+            }
             z = x - y;
+            
             break;
         case '/':
+            if (y==0){
+                printf("you cant divide by 0");
+            }
             z = x / y;
             break;
         case '*':
