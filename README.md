@@ -515,24 +515,6 @@ These concepts are particularly relevant to electronics, embedded systems, and f
 
 ---
 
-# Goals
-
-* [x] Learn C fundamentals
-* [x] Practice operators and conditions
-* [x] Learn functions
-* [x] Learn loops
-* [x] Practice arrays and strings
-* [x] Learn structures and enums
-* [x] Learn pointers
-* [x] Learn file handling
-* [x] Learn dynamic memory allocation
-* [ ] Strengthen C problem-solving skills
-* [ ] Build larger C projects
-* [ ] Apply C to embedded systems
-* [ ] Develop firmware-oriented C skills
-
----
-
 # Repository Status
 
 **Status: Active**
