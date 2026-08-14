@@ -2,6 +2,7 @@
 
 int main (){
     FILE *pFile = fopen("output.txt", "w"); // here if you wirte the path then use "\\" for the convinence
+    FILE *pFile = fopen("C:\\Users\\chira\\Desktop\\dummy.txt", "w"); // here if you wirte the path then use "\\" for the convinence
     char text [] = "HI HELLO BYE GOODBYE!!!";
 
     if(pFile == NULL){
