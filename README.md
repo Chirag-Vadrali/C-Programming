@@ -527,9 +527,9 @@ The purpose of this repository is to document my C programming journey and build
 
 ## Author
 
-**Ryujino18**
+**Chirag Vadrali**
 
-GitHub: [@Ryujino18](https://github.com/Ryujino18)
+GitHub: [@ChiragVadrali](https://github.com/Chirag-Vadrali)
 
 ---
 
